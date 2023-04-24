@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pascal.bierlijst20.MainActivity">
+
+    <item
+    android:id="@+id/History_menu"
+    android:orderInCategory="102"
+    android:title="@string/history_action"
+    app:showAsAction="never" />
+    <item
+        android:id="@+id/Statistics_menu"
+        android:orderInCategory="101"
+        android:title="@string/Statistics_action" />
+    <item
+        android:id="@+id/Mute_menu"
+        android:icon="@drawable/unmute"
+        android:orderInCategory="102"
+        android:title="@string/Mute_action"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Settings_menu"
+        android:orderInCategory="102"
+        android:title="@string/settings_title"
+        app:showAsAction="never" />
+</menu>

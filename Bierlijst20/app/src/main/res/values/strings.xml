@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Main Layout-->
+    <string name="app_name">Bierlijst</string>
+    <string name="app_version">v2.4.2</string>
+
+    <string name="history_action">Geschiedenis</string>
+    <string name="Mute_action">Mute</string>
+    <string name="UnMute_action">Unmute</string>
+    <string name="Statistics_action">Statistieken</string>
+
+    <!--Action Layout-->
+    <string name="bierdrinken">Biertje?!</string>
+    <string name="biergekocht">Kratje gekocht?!</string>
+    <string name="undo">Ongedaan maken</string>
+
+    <!--History Layout-->
+    <string name="title_activity_history_window">Geschiedenis</string>
+    <string name="header_totalBier">Pils</string>
+    <string name="header_Date">Datum</string>
+    <string name="header_Time">Tijd</string>
+    <string name="header_Person">Persoon</string>
+    <string name="header_Balance">Balans</string>
+    <string name="header_Action">Actie</string>
+
+    <!--Settings Layout-->
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_confirm">Bevestigen</string>
+    <string name="settings_Color">Voorkleur</string>
+    <string name="settings_currentColorPackage">Oranje!</string>
+    <string name="settings_chosenPackage">pack4</string>
+    <string name="settings_Single">Wie heeft er extra bier gekocht?</string>
+    <string name="settings_SingleAmount">Hoeveel dan?</string>
+    <string name="settings_Reset">Reset all</string>
+    <string name="settings_changeName">Verander de naam</string>
+    <string name="settings_changeNameto">naar...</string>
+    <string name="settings_hint">Adolf maybe?</string>
+    <string name="settings_addName">Person toevoegen...</string>
+    <string name="settings_removeName">Person verwijderen...</string>
+
+    <!--Statistics Layout-->
+    <string name="statistics_drink">De grootste zuiplappen!</string>
+    <string name="statistics_bought">De rijkste van alle Tatas!</string>
+    <string name="statistics_title">Statistieken</string>
+
+    <string-array name="Packages">
+        <item>Oranje!</item>
+        <item>Ludica Geel</item>
+        <item>Saxion Groen</item>
+        <item>Aqua Blauw</item>
+        <item>Vuur Rood</item>
+        <item>Militair Groen</item>
+        <item>Oreo</item>
+    </string-array>
+
+    <string-array name="integers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+
+    </string-array>
+
+
+</resources>

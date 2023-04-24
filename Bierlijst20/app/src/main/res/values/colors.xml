@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF000000</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#60ca3d</color>
+    <color name="red">#DD2C00</color>
+    <color name="black_overlay">#66000000</color>
+
+    <!--Color Packages-->
+    <color name="current_background">#2f2f2f</color>
+    <color name="current_buttonsDark">#ff8800</color>
+    <color name="current_buttonsLight">#FFA13C</color>
+    <color name="current_text">#ffffff</color>
+    <color name="current_title">#ffffff</color>
+    <color name="current_historyText">#FFC107</color>
+
+    <color name="example">#f1f1f1</color>
+</resources>
